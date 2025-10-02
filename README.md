@@ -50,5 +50,6 @@ const thai = {
     Jest,
   ]
 ```
+https://img.shields.io/github/commit-activity/m/leilakh71/git-create/main
 
 
