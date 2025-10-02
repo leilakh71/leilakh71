@@ -35,4 +35,20 @@
 <h3 align="left">🖥 JavaScript | 80%</h3>
 <h3 align="left">🖥 React Js | 80%</h3>
 
+```javascript
+const thai = {
+  pronouns: "she",
+  langs: [Javascript, Typescript, HTML, CSS],
+  tools: [
+    React,
+    Redux,
+
+    Next,
+    Tailwind,
+    Storybook,
+    Styled - Components,
+    Jest,
+  ]
+```
+
 
