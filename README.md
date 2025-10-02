@@ -20,3 +20,19 @@
 <a href ="https://instagram.com/leila710000"><img width="50px" height="50px" align="left" src="https://github.com/leilakh71/leilakh71/blob/main/icons8-instagram-48.png?raw=true" alt="Instagram"/></a>
 
 <a href ="https://t.me/LeilaKh71"><img width="50px" height="50px" src="https://github.com/leilakh71/leilakh71/blob/main/icons8-telegram-100.png?raw=true" alt="Telegram"/></a>
+
+<br/>
+
+<h2 align="right">الان به چه کار هایی مشغول هستم 🌚</h2>
+
+<h3 align="right">تمرین و انجام پروژه ها 🌟 </h3>
+<h3 align="right">تکمیل دوره های آموزشی 🌟 </h3>
+
+<br/>
+
+<h2 align="right">الان دارم با اینا کار میکنم 👩‍💻</h2>
+
+<h3 align="left">🖥 JavaScript | 80%</h3>
+<h3 align="left">🖥 React Js | 80%</h3>
+
+
