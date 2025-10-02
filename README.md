@@ -1,71 +1,14 @@
-## Hi there , I,m Leila Khodaparast 👋
+# من کی‌ ام؟ 👨‍💻
 
-- This **Text** Is Bold
-- This __Text__ Is Bold
-- This *Text* Is Bold
-- This _Text_ Is Bold
-- This ***Text*** Is Bold
-- This ___Text___ Is Bold
-  
- -------
+<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
- > I am `Mern Stack` Developer
->> I Developer Front End
+<h2 align="center">سلام 🖐 من لیلا خداپرست هستم</h2>
+<p align="center">
+  برنامه نویس فرانت اند 🖥 ❤️ لیسانس مهندسی تکنولوژی نرم افزار 👨‍💻👩‍💻👩‍💻 و عاشق دنیای صفر و یک ✌️
+</p>
 
------------
+<br />
 
-```diff
-- const login = () => true
+<h2 align"right">ابزار هایی که استفاده می‌کنم 💪</h2>
 
-+ const login = () => jwToken
-```
-
---------
-
-<ul>
-  <li>Front End
-    <ul>
-      <li>Js</li>
-      <li>React</li>
-      <li>Redux</li>
-    </ul>
-  </li>
-</ul>
-
------------
-
-1. FrontEnd
-   1. Js
-   2. React
-   3. Redux
-   4. Npm
-   ---------
-
-   # Tables
-   | Front End | Col 3|
-   | -- | --
-   |Js | Row 1 Col 3|
-   |React | Row 2 Col 3|
-   |Redux | Row 3 Col 3|
-   
-   
-
-   
-
-
-
-
-
-  
-
-
-
-
-
-
-
-## My Activity
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leilakh71&stats_format=bytes"/>
-
-## My Projects Languages
-<img src = "https://github-readme-stats.vercel.app/api?username=leilakh71&show_icons=true&theme=radical"/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
